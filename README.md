@@ -10,4 +10,5 @@ This project requires Python and the following Python libraries installed:
 [lxml]
 
 ##Run
+
 Run HLTVScraper.py
